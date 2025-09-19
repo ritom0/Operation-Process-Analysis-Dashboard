@@ -65,3 +65,10 @@ You can explore the interactive dashboard here:
 
 ![Overview Dashboard](https://github.com/ritom0/Operation-Process-Analysis-Dashboard/blob/main/Order%20Analysis.png)
 
+
+![Overview Dashboard](https://github.com/ritom0/Operation-Process-Analysis-Dashboard/blob/main/Delayed%20Delivery%20Analysis.png)
+
+![Overview Dashboard](https://github.com/ritom0/Operation-Process-Analysis-Dashboard/blob/main/Opreation%20Process%20Analysis.png)
+
+
+
